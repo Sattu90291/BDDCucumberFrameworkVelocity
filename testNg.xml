@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Velocity Ecommerce Test Suite" verbose="2" parallel="false">
+
+    <test name="VEcom Dashboard Validation Tests">
+        <classes>
+            <class name="runner.VEcomRunner"/>
+        </classes>
+    </test>
+
+</suite>
