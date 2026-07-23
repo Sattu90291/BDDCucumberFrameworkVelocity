@@ -8,3 +8,8 @@ Feature: Validate admin login
     Given test1
     When test1
     Then test1
+
+  scenario: Validate admin login with invalid credentials
+    Given test3
+    When test3
+    Then test3
