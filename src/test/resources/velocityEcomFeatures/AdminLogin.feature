@@ -4,3 +4,10 @@ Feature: Validate login feature
     When user clicks on admin button
     And Test4
     Then Test4
+
+
+    Scenario: Test6
+    Given: test6
+    When test6
+    And test6
+    Then test6
