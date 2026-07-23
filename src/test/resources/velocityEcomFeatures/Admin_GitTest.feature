@@ -8,3 +8,9 @@ Feature: Validate admin login
     Given test1
     When test1
     Then test1
+
+
+  scenario: test2
+    Given test2
+    When test2
+    Then test2
